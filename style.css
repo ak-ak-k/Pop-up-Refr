@@ -227,6 +227,7 @@ input::-webkit-inner-spin-button {
   }
   .col_100 p {
     font-size: 1.3rem;
+    line-height: 30px;
   }
 
   .form_details {
