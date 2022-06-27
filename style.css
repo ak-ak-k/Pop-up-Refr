@@ -216,6 +216,10 @@ input::-webkit-inner-spin-button {
   color: #000000;
 }
 
+#myDIV {
+  display: none;
+}
+
 @media screen and (max-width: 900px) {
   .main {
     width: 100%;
