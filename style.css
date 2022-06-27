@@ -225,6 +225,9 @@ input::-webkit-inner-spin-button {
     width: 100%;
     max-width: 300px;
   }
+  .all_details {
+    margin: -40px 0 0 0;
+  }
   .col_100 p {
     font-size: 1.3rem;
     line-height: 28px;
