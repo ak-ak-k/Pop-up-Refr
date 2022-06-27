@@ -201,7 +201,7 @@ input::-webkit-inner-spin-button {
   color: #ffffff;
 }
 
-.alter {
+.alter p {
   font-family: var(--primaryFont);
   font-style: normal;
   font-weight: 400;
@@ -227,7 +227,7 @@ input::-webkit-inner-spin-button {
   }
   .col_100 p {
     font-size: 1.3rem;
-    line-height: 30px;
+    line-height: 28px;
   }
 
   .form_details {
